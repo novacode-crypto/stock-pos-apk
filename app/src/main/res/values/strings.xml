@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock POS</string>
+    <string name="login_title">Stock & POS</string>
+    <string name="login_subtitle">Terminal POS</string>
+    <string name="search_hint">Buscar producto...</string>
+    <string name="checkout">Cobrar</string>
+    <string name="cart_empty">Carrito vacío</string>
+    <string name="sync">Sincronizar</string>
+</resources>
